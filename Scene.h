@@ -1,7 +1,7 @@
 // Samy Mannane, Donovan Neveux
 
-//Sample of code about a Bounding volume hierarchy
-//It is a block of code and not a complete class
+//Sample of code about a ray tracing algorithm
+//These are blocks of code and not a complete class
 
 // [...]
 
