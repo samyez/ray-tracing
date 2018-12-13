@@ -231,8 +231,6 @@ BVH::BVH(BoundingBox bbox, std::deque<Triangle> triangles) {
 						}
 					}
 
-
-
 					if (i_found.valid())
 					{
 						if (i_found2.valid() && i_found2.tRayValue() < i_found.tRayValue())
@@ -247,10 +245,7 @@ BVH::BVH(BoundingBox bbox, std::deque<Triangle> triangles) {
 					}
 				}
 			}
-
-
 			return i_found;
 		}
-
 	};
 }
